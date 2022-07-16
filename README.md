@@ -1,0 +1,1 @@
+# cpp-star-pattern-question.
